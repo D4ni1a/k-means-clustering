@@ -11,3 +11,7 @@ Windows Forms App
 <img src="https://user-images.githubusercontent.com/71354878/200021868-a39fa8d6-4eb5-47bb-a89b-43288f805405.png" alt="drawing" style="width:50%;"/>
 
 <img src="https://user-images.githubusercontent.com/71354878/200022013-3138c127-3559-4faf-b3dd-bf8063c71e2a.png" alt="drawing" style="width:50%;"/>
+
+Файлы Test.txt и Test1.txt содержат примеры входных данных
+
+Файлы Result.txt и Result1.txt содержат примеры выходных данных для Test.txt и Test1.txt
